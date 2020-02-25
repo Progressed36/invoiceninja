@@ -78,7 +78,8 @@
         "codeception/c3": "2.*",
         "codeception/codeception": "2.*",
         "phpspec/phpspec": "~2.1",
-        "phpunit/phpunit": "~5.7"
+        "phpunit/phpunit": "~5.7",
+         "tinymce/tinymce": ">= 5"
     },
     "autoload": {
         "classmap": [
